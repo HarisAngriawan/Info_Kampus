@@ -1,0 +1,103 @@
+body{
+	font-family: 'Lucida Sans', sans-serif;
+	background-image: url("../image/amikom.png");
+	background-repeat: no-repeat ;
+	background-position: center;
+	background-size: 50%;
+	width: 900px;
+	margin: 80px auto;
+	background-color: #800080;
+	
+}
+.wrapper{
+position: relative;
+padding-bottom: 10px;
+
+}
+.row.icon {
+	text-align: center;
+	color: rgb(231, 152, 4);
+}
+h2{
+	font-size: 10pt;
+	text-align: center;
+	color: #ffffff;
+	position: center;
+}
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: bold;
+	color: #000000;
+	position: center;
+}
+
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+	color: #ffffff;
+
+}
+
+.kotak_login{
+	width: 400px;
+	height: 430px;
+	background:rgba(0,0,0,0.4); 
+	margin: 80px auto;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
+
+}
+
+label{
+	font-size: 11pt;
+	color: white;
+}
+
+.form_login{
+	color: black;
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+
+.tombol_login{
+	background: rgb(255,140,0);
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.tombol_link{
+	background:rgb(0,0,0,0.4);
+	color: #ffffff;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding-top:  10px ;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}

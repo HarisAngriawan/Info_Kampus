@@ -1,0 +1,13 @@
+img {
+    width: 450px;
+    height: auto;
+    margin-top: 20px;
+}
+input.tambah.btn.btn-primary {
+    margin-bottom: 15px;
+    float: right;
+}
+.card {
+    width: 100%;
+    height: auto;
+}
